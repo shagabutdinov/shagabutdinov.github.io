@@ -35,7 +35,7 @@ software integrations with our partners (Disney & Deluxe) in London & Zurich.
 I've reduced delivery errors by factor 3.
 
 
-### [idfly.io](idfly.io), Co-founder & Rails/PHP Developer & CTO, September 2009 – August 2016
+### [idfly.io](idfly.io), Co-founder & Web Developer & CTO, September 2009 – August 2016
 
 IdFly provided outsourcing from Siberian developers to the Moscow region. We
 made 20+ marketing projects for brands like Castrol, Sony, Nivea, Rexona,
@@ -49,7 +49,7 @@ Docker to the development process.
 Education
 ---------
 
-* The bachelor's degree in computer science (Novosibirsk State Technical University, NSTU), 2006 – 2011
+* The engineer's degree in computer science (Novosibirsk State Technical University, NSTU), 2006 – 2011
 * Techpeaks - The People Accelerator, 2013
 
 Links
