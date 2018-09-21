@@ -5,7 +5,7 @@ Leonid Shagabutdinov, Resume
 
 I'm looking for a **remote Ruby On Rails & React full stack developer** position. I'm the web developer with 10+ years of experience. I work with Ruby
 On Rails (5+ years), React (Javascript, 3+ years), Golang as highload
-language. Reach me out by the email
+language. Reach me out by the email:
 [leonid@shagabutdinov.com](mailto:leonid@shagabutdinov.com).
 
 
@@ -25,8 +25,8 @@ Experience
 ### [diagonal.com](diagonal.com), Senior Ruby On Rails Developer, August 2016 – present
 
 Diagonalfilm is the market leader in Switzerland for online cinema delivery.
-I've set up continuous integration & delivery process, added more than 1000
-test checks, completely refactored the delivery software. During my work here
+During my work here, I set up continuous integration & delivery process, added
+more than 1000 test checks, completely refactored the delivery software.
 I refactored the main UI application to React and improved the response time
 and the customer's satisfaction. We delivered more than 100000 films &
 trailers to 300+ cinemas across Switzerland with more than 5000TB of data. I
