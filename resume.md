@@ -5,8 +5,7 @@ Leonid Shagabutdinov, Resume
 
 I'm looking for a **remote Ruby On Rails & React full stack developer** position. I'm the web developer with 10+ years of experience. I work with Ruby
 On Rails (5+ years), React (Javascript, 3+ years), Golang as highload
-language. Reach me out by the phone [+7 905 937 6988](callto:+79059376988)
-(WhatsApp, Telegram are OK) or the email
+language. Reach me out by the email
 [leonid@shagabutdinov.com](mailto:leonid@shagabutdinov.com).
 
 
